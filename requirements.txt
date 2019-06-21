@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+imblearn
+vaderSentiment
+ConfigParser
+nltk
+stop_words
+regex
+wordcloud
+textblob
